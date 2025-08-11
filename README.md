@@ -2,9 +2,9 @@
 
 ## Overview
 
-Enclosed is the first version of the code used for the second PopHIVE prototype dashboard. This repository includes the code for generating the Shiny App, with datasets derived from previous projects by [Professor Dan Weinberger](https://ysph.yale.edu/profile/daniel-weinberger/) and the first prototype codebase [PopHIVE/data-gov](https://github.com/PopHIVE/data-gov). **NOTE:** This code was not used for the final version of the second prototype.
+Enclosed is the first version of the code used for the first PopHIVE prototype dashboard version 1b. This repository includes the code for generating the Shiny App, with datasets derived from previous projects by [Professor Dan Weinberger](https://ysph.yale.edu/profile/daniel-weinberger/) and the first prototype codebase with the version 1a dashboard: [PopHIVE/data-gov](https://github.com/PopHIVE/data-gov). **NOTE:** This code was not used for the final version of the prototype.
 
-This codebase was initially copied from a repository in Professor Weinberger's GitHub. In the spring of 2025, the same code was transferred to a repository in the [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) (YSPH-DSDE) GitHub Organization for further development. For posterity, the early version of this prototype was copied to the [PopHIVE](https://github.com/PopHIVE) GitHub Organization on August 11, 2025. 
+This codebase was initially copied from a repository in Professor Weinberger's GitHub. In the spring of 2025, the same code was transferred to a repository in the [YSPH Data Science and Data Equity](https://github.com/ysph-dsde) (YSPH-DSDE) (YSPH-DSDE) GitHub Organization for further development. For posterity, the early version of this prototype was copied to the [PopHIVE](https://github.com/PopHIVE) GitHub Organization on August 11, 2025.
 
 At the time of transfer, Professor Weinberger's version was no longer being actively contributed to. You can find a copy of the final development version of the second prototype dashboard from YSPH-DSDE's GitHub Organization here: [PopHIVE/DSDE-PopHIVE](https://github.com/PopHIVE/DSDE-PopHIVE).
 
