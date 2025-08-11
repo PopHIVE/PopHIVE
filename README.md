@@ -10,6 +10,8 @@ At the time of transfer, Professor Weinberger's version was no longer being acti
 
 **Dates active:** Never formally active. Copied to the YSPH-DSDE GitHub Organization early in its development.
 
+&nbsp;
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/PopHIVE/PopHIVE) ![GitHub watchers](https://img.shields.io/github/watchers/PopHIVE/PopHIVE) ![GitHub forks](https://img.shields.io/github/forks/PopHIVE/PopHIVE) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
 
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/PopHIVE/PopHIVE) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/PopHIVE/PopHIVE) ![GitHub Release Date](https://img.shields.io/github/release-date/PopHIVE/PopHIVE) ![GitHub repo size](https://img.shields.io/github/repo-size/PopHIVE/PopHIVE)
